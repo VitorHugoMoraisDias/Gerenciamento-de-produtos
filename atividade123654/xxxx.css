@@ -1,0 +1,18 @@
+html{
+    background-image: linear-gradient( antiquewhite, bisque, white);
+}
+.textcontent{
+    background-color: whitesmoke;
+    text-decoration: none;
+}
+table, th, td, .border {
+    border: 1px solid black;    
+}
+.icon{
+width: 20px;
+height: auto;
+}
+.image{
+width: 3cm;
+}
+
